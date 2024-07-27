@@ -1,0 +1,5 @@
+** Need a search bar
+** When I select an option it should shown on search bar
+** fetch the array data I have
+** Show the data in UI
+** 

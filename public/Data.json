@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name":"Iphone",
+        "price":"1,24,000",
+        "description":"The Phone is Very Much ok"
+    },
+    {
+        "id": 2,
+        "name":"Vivo",
+        "price":"1,24,000",
+        "description":"The Phone is Very Much ok"
+    },
+    {
+        "id": 3,
+        "name":"Oppo",
+        "price":"1,24,000",
+        "description":"The Phone is Very Much ok"
+    },
+    {
+        "id": 4,
+        "name":"Infinix",
+        "price":"1,24,000",
+        "description":"The Phone is Very Much ok"
+    },
+    {
+        "id": 5,
+        "name":"Techno",
+        "price":"1,24,000",
+        "description":"The Phone is Very Much ok"
+    },
+    {
+        "id": 6,
+        "name":"Xiomi",
+        "price":"1,24,000",
+        "description":"The Phone is Very Much ok"
+    }
+]
