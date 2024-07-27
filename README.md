@@ -1,4 +1,5 @@
 # React + Vite
+[Live Link](https://merry-mandazi-880a9c.netlify.app/)
 # Custom Select Component
 This project implements a custom select component in React, supporting single and multiple value selection, clearable and searchable options, and grouped list items. No external libraries are used for the select functionality.
 
